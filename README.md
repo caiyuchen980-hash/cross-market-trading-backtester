@@ -15,6 +15,6 @@ A Python-based quantitative backtesting system for comparing five trading strate
 
 
 ## 👩‍💻 Author
-Chen Caiyu//
+Chen Caiyu
 
 Course Project: COM5507 Media Data Acquisition
