@@ -10,17 +10,10 @@ A Python-based quantitative backtesting system for comparing five trading strate
   - RSI
   - Moving Average Envelope
   - Moving Average Oscillator
-- Cross-market performance comparison across US, Hong Kong, and China A-share markets
+- Cross-market performance comparison across US, Hong Kong, China A-share markets
 - Visualization of equity curves and performance metrics
 
-## 📦 Requirements
-To run the project, install the required packages:
-```bash
-pip install -r requirements.txt
 
-🚀 How to Run
-Install dependencies
-Run the notebook / main Python script
-👩‍💻 Author
+## 👩‍💻 Author
 Chen Caiyu
-Course Project: COMM7780 Big Data Analytics for Media and Communication
+Course Project: COM5507 Media Data Acquisition
